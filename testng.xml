@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Test Suite-1" >
+
+    <test name="Test Case-1" >
+
+        <classes>
+
+            <class name="crud.CreateCollectionTests" />
+            <class name="crud.GetCollectionsTest" />
+            <class name="crud.GetCollectionTest" />
+
+        </classes>
+
+    </test>
+
+</suite>
