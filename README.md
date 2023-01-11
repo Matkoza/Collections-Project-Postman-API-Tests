@@ -1,4 +1,4 @@
-# This is a project created for Postman API testing
+# Collections Project for Postman API testing
 
 Tools used:
 Java, TestNG, RestAssured
